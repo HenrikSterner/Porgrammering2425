@@ -1,4 +1,4 @@
-# Introduktion til videregående Programmering i Python '
+# UNDER OPBYGNING! Introduktion til videregående Programmering i Python 
 Python er for tiden det mest populære og anvendte sprog i verdenen (se bare stats fra tiobe index og red monk). Det er relativt hurtigt og har et kæmpe økosystem (100.000+) pakker, som gør os i stand til at lave stort set alt med sproget på relativt kort tid. 
 Nærværende github repository, beskriver et kursus/forløb i Python. 
 
