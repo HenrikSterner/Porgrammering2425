@@ -44,26 +44,8 @@ Lav øvelserne i den rækkefølge som de står. Lav så mange som overhovedet mu
 
 
 
-
 Modul Nr       | Kapitel     | Indhold                     | Øvelser     |
 ----------- | ----------- | ----------------------------| ----------- |
-1          | PY: 1,2,3       | Intro til python, Colab og evt jupyter |   Installere og afprøve software         |
-2 | PY: 4 og 5 | Variabler og operatorer  | **ØP2 alle opgaver,1-3**,ØP:4-6 |
-3 | PY: 6 og 7 | Indbyggede typer og datastrukturer | ØP:**7-11**,12-14 |
-4 | PY: 8 og 11 | Løkker og betinget udførsel | ØP:**21-25**,26-27|
-5 | PY: 9 | Funktioner | ØP:**33** |
-6 |   Øvelse    | WebApps og GUIs  | ØP:**41-42** |
-7 | PY: 10 | Undtagelser | ØP:**32** |
-8 | PY: 11-12 | Operationer på lister |ØP:**34-35**, 28|
-9 | PY: 14 | Moduler og pakker | ØP:**37** |
-10 | PY: 15 | Strenge og lidt om regulære udtryk | ØP:**36, 29**, 30|
-11 | [Noter](https://github.com/HenrikSterner/IntroPython/blob/main/slides/OOP.pdf) | Objektorienteret programmering og principperne bag | ØP:**38, 39, 40**|
-12 | PY11, AdvPy:5  | Videregående Python: Zip funktionen | ØP:**49** |
-13 | PY11, AdvPy:4  | Videregående Python: Lambda udtryk |ØP:**50** |
-14 | PY11, AdvPy:4  | Videregående Python: filter funktion | ØP:**53**|
-15 | PY11, AdvPy:4  | Videregående Python: map funktion |ØP:**52** |
-16 | PY11, AdvPy:4  | Videregående Python: reduce funktion |ØP:**54** |
-17 | PY11, AdvPy:6  | Videregående Python: Decorators | |
-18 | PY11, AdvPy:10-11  | Videregående Python: Tests, docTests, UnitTests, PyTests | |
-19 | PY11, AdvPy:12-13  | Videregående Python: Regulære udtryk | |
-20 | PY11, AdvPy:12-13  | Videregående Python: Tråde og parallellisering |51 |
+1          |        | Repetitionsøvelse |   [Beskrivelse](https://github.com/HenrikSterner/Programmering2425/blob/main/materialer/repetition.md)         |
+2-3          |        | Præsentationer |            |
+4          |        | Eksamenslignende opgave |            |
