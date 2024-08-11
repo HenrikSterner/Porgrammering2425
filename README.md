@@ -7,9 +7,6 @@ Vi forudsætter, at du allerede har et vist kendskab til programmering, som du f
 Det er af afgørende betydning, at du laver de nødvendige øvelser undervejs. At lære at programmere er lidt som at bygge et hus. Kun hvis væggene er solide og sikre kan du begynde at sætte taget på. Øvelserne skal med andre ord hjælpe dig med at sikre, at du har godt nok styr på det fundamentale. 
 God arbejdslyst.
 
-Mvh.
-Kathrine Bohus Madsen og Henrik Sterner
-
 # Grundbog, slides og øvelser
 Vi bruger uddrag af følgende to gratis og opensource bøger af af Jake Vanderplas: 
 1. (PY) [Grundbog: A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
