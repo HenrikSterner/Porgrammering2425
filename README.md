@@ -43,6 +43,6 @@ Lav øvelserne i den rækkefølge som de står. Lav så mange som overhovedet mu
 
 Modul Nr       | Kapitel     | Indhold                     | Øvelser     |
 ----------- | ----------- | ----------------------------| ----------- |
-1          |        | Repetitionsøvelse |   [Beskrivelse](https://github.com/HenrikSterner/Programmering2425/blob/main/materialer/repetition.md)         |
+1          |        | Repetitionsøvelse |   [Beskrivelse](https://github.com/HenrikSterner/Programmering2425/blob/main/materialer/repetition.md), [noter](https://github.com/HenrikSterner/Programmering2425/blob/main/slides/slidespython.md)         |
 2-3          |        | Præsentationer |            |
 4          |        | Eksamenslignende opgave |            |
