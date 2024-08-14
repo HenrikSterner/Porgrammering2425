@@ -16,8 +16,10 @@ Datalog og matematiker
 ## Om disse slides
 - Disse slides er en introduktion til objektorienteret programmering i Python.
 - Slides er lavet i markdown og med plantuml til at tegne klassediagrammer.
-- reveal.js bruges til at vise slides.
+- reveal.js bruges til at vise slides i en browser.
 - Slides kan ses på [github](henriksterner/Programmering2425/slides/slidesoopuml.md)
+- Slides er under udvikling og vil løbende blive opdateret.
+- Slides er lavet i markdown og kan nemt konverteres til andre formater (herunder pdf).
 - Spørgsmål og kommentarer er velkomne.
 
 ---
